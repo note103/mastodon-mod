@@ -1,7 +1,12 @@
-.drawer {
-    overflow : visible ;
-    width : 25% !important ;
-    height : 400px !important ;
+@media (min-width:1000px) {
+    .drawer {
+        width : 35% !important ;
+    }
+}
+
+.autosuggest-textarea__textarea
+{
+    height : 200px !important ;
 }
 
 .emoji-dialog {
@@ -20,33 +25,33 @@
 .drawer__header
 {
     position : absolute !important ;
-    width : 15% !important ;
-    left : 45% !important ;
-    margin-left : 1em ;
+    width : 31.5% !important ;
+    left : 35.5% !important ;
+    margin-left : 0em ;
 }
 
 .search
 {
     position : absolute !important ;
-    width : 20% !important ;
-    left : 25% !important ;
+    top : 60px !important ;
+    width : 31.5% !important ;
+    left : 35.5% !important ;
 }
-
 
 .column:nth-child(2) {
-    
-    margin-top : 60px !important ;
+    margin-top : 90px !important ;
 }
-  
+
 .column:nth-child(3) {
     position : fixed !important ;
-    width : 25% !important ; 
-    top : 390px !important ;
+    top : 340px !important ;
+    margin-top : 0px !important ;
+    width : 35% !important ;
     height : 100% ;
     padding-left : 10px !important ;
 }
 
-/* 
+/*
 注意！　ニコニコ連携へのリンクを消す。
 ニコニコ連携をしたいときは一度ユーザーCSSを無効化すること
 */
