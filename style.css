@@ -64,6 +64,6 @@ div.column-icon.collapsable + div {
 }
 
 /* 画像を消す */
-a {
-    background : initial !important ;
-}
+/* a {                                   */
+/*     background : initial !important ; */
+/* }                                     */
