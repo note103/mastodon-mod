@@ -39,6 +39,8 @@
 }
 
 .column:nth-child(2) {
+    overflow : visible ;
+    width : 32.5% !important ;
     margin-top : 90px !important ;
 }
 
