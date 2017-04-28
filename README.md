@@ -6,4 +6,6 @@ Firefoxへの対応は面倒なのでやっていない。
 
 friends.nicoにしか対応させていないので、ほかのマストドンのインスタンスに使う場合はmanifest.jsonのpermissionとcontent_scriptのURLを追加すること。
 
+## Image
 
+![](css.png)
