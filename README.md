@@ -8,4 +8,14 @@ friends.nicoにしか対応させていないので、ほかのマストドン�
 
 ## Image
 
-![](css.png)
+![](img/css.png)
+
+## Installation
+
+1\. Chrome拡張機能の[設定画面](chrome://extensions/)からデータの読み込みボタンをクリック。
+
+![](img/installation.png)
+
+2\. データをフォルダごと選択。
+
+3\. 以後、ソースファイルを更新するたびに拡張機能設定画面＆対象ページをリロードすることで更新が反映される。
